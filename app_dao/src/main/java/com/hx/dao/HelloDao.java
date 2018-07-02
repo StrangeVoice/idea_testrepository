@@ -7,4 +7,8 @@ public class HelloDao {
     public String sayHelloDao(String name){
         return "Hello "+name;
     }
+
+    public void m(){
+
+    }
 }
